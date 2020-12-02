@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">待发可转债</string>
+    <string name="app_desc">抓取集思录中待发可转债数据，计算一手党数量</string>
+</resources>
